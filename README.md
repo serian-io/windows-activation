@@ -1,5 +1,8 @@
 <h1 align="center">Scripts de Activación de Microsoft (MAS)</h1>
 
+activador de windows / descargar activador de windows 10 / descargar activador de windows 11 / activador de windows apk / activador de windows 11 pro / activador de windows 10 kms auto / activador de windows 10 automatico / bajar activador de windows 10 / 	
+activador de office / descargar activador de office
+
 <p align="center">Activador de Windows y Office de código abierto que incluye métodos de activación HWID, Ohook, TSforge, KMS38 y KMS en línea, junto con herramientas avanzadas de diagnóstico.</p>
 
 <hr>
